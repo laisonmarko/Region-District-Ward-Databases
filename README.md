@@ -1,3 +1,3 @@
 # Region-District-Ward-Database
 
-This database conatin three tables for regions ,districts and wards .It may need some corrections
+This is database  for regions ,districts and wards in Tanzania in various formats obtanined from various online sources .Feel free to contribute 
